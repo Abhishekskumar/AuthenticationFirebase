@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "596601586535",
+    "firebase_url": "https://smartmed2-98916.firebaseio.com",
+    "project_id": "smartmed2-98916",
+    "storage_bucket": "smartmed2-98916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596601586535:android:b01244f61f259694",
+        "android_client_info": {
+          "package_name": "com.smarproj.abhishek.smartmed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596601586535-e39dm40gku2akanfa6forvoo1pgjcknd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smarproj.abhishek.smartmed",
+            "certificate_hash": "5ce26d9a6db0a0b1e66cef3fad04fea63ab1aad8"
+          }
+        },
+        {
+          "client_id": "596601586535-b8tlbtibukto6l7988khu6r35brvuof2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4EHpwpZQU8Z7bR2DLITsYnhLjz6Y9geY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596601586535-b8tlbtibukto6l7988khu6r35brvuof2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
